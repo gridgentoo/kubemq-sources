@@ -1,3 +1,6 @@
+Оригинальный репозиторий     
+https://github.com/kubemq-io/kubemq-sources
+
 # KubeMQ Sources
 
 KubeMQ Sources connects external systems and cloud services with KubeMQ message queue broker.
